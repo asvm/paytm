@@ -1,0 +1,88 @@
+.inter-body {
+  background: linear-gradient(119.69deg,#0080ff,#00d5ff 82%)
+}
+
+.inter-body {
+  padding: 50px;
+}
+
+li.dd {
+  font-size: 20px;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: white;
+}
+
+.container1 {
+  width: 1170;
+  height: 48.4;
+  margin: 0 auto;
+}
+
+.body1 {
+  height: 732.7;
+  width: 1353;
+  background: url(frame.png) no-repeat 0 100%;
+}
+
+button {
+padding: 5px 10px;
+max-width: 150px;
+}
+
+button li.dd a {
+  color: white;
+}
+
+main .online-banner .container .online-banner-text {
+    padding: 11.5% 0 17.1%;
+    text-align: left;
+    color: #fff;
+    float: none;
+    display: table-cell;
+}
+
+/* code added from here
+
+.feature-solution {
+  padding: 7% 0 8.2%;
+}    */
+
+.text-center {
+  text-align: center;
+  padding: 80px;
+}
+
+h2 {
+  font-size: 3rem;
+  line-height: 4rem;
+  color: #121d55;
+}
+
+.container-fluid {
+  text-align: center;
+}
+
+.col-sm-4 h4 {
+  color: #121d55;
+}
+
+.heading h2{
+  text-align: center;
+  font-size: 2.2rem;
+  color: #39464d;
+  line-height: 1.2;
+}
+
+
+.payment-method-section {
+    background-color: #f0fafc;
+    padding-top: 0;
+}
+
+.inner-heading-wrapper {
+    max-width: 58%;
+    margin: 0 auto;
+    width: 100%;
+}
